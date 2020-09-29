@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj": {}
+    "C:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj": {
+    "C:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj",
+        "projectUniqueName": "C:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj",
         "projectName": "replace",
-        "projectPath": "c:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj",
+        "projectPath": "C:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj",
         "packagesPath": "C:\\Users\\kees-jan.koster\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\obj\\",
+        "outputPath": "C:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

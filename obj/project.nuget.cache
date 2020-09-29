@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xAFVgVlspGhgzy6ZpedaAR4IHxwKt5voiy8x6d4WHKia12a7W9EH8YBF5xZcx7b6eZngIZ6aSPcK/onzyT98tw==",
+  "dgSpecHash": "GonVL/B0+WN4d+0fFml1D1FGOFfCcfCNX76dvPEGiM3BwtUJ9oHx40ee1NGEPbvz06T6JmG+1LA/ddTBKG3IDA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj",
+  "projectFilePath": "C:\\Users\\kees-jan.koster\\Desktop\\Kurdish#Replace\\replace\\replace.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kees-jan.koster\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "C:\\Users\\kees-jan.koster\\.nuget\\packages\\nstack.core\\0.14.0\\nstack.core.0.14.0.nupkg.sha512",

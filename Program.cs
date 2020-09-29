@@ -101,24 +101,7 @@ namespace replace
 
             // Get all USX files in ORG folder
             string[] files = Directory.GetFiles(orgFolder.ToString(), "*.usx");
-            // Number of files
-            int total = files.Count();
-            int current = 0;
-
-            // Setup to show progress
-            Window progressWin = new Window("Replacing...", 5);
-            Label progressLabel = new Label(1, 3, "Progress:");
-            ProgressBar progress = new ProgressBar(new Rect(1, 5, Application.Top.Frame.Width - 14, 1));   
-
-            progressWin.Add(progressLabel, progress);
-            win.Add(progressWin);
-
-            progress.Fraction = 0.5F;
-            progressLabel.Text = "Testt";
-            win.Redraw(progressWin.Bounds);
-
-            
-            
+              
             // Loop over all USX files in ORG folder using multithreading
             Parallel.ForEach(files, (currentFile) =>{
                 // Get the filename
