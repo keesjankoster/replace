@@ -1,0 +1,16 @@
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\replace.exe
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\replace.deps.json
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\replace.runtimeconfig.json
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\replace.runtimeconfig.dev.json
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\replace.dll
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\replace.pdb
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\NStack.dll
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\bin\Debug\netcoreapp3.1\Terminal.Gui.dll
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.csprojAssemblyReference.cache
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.AssemblyInfoInputs.cache
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.AssemblyInfo.cs
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.csproj.CoreCompileInputs.cache
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.csproj.CopyComplete
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.dll
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.pdb
+C:\Users\kees-jan.koster\Desktop\Kurdish#Replace\replace\obj\Debug\netcoreapp3.1\replace.genruntimeconfig.cache
